@@ -1,0 +1,9 @@
+..\\menu\\interfaccia_iniziale.txt
+..\\menu\\menu_principale.txt
+..\\menu\\iniziare_partita.txt
+..\\menu\\carica.txt
+..\\menu\\aiuto.txt
+..\\menu\\classifica.txt
+..\\menu\\regolamento.txt
+..\\menu\\manuale.txt
+..\\menu\\partita_in_corso.txt

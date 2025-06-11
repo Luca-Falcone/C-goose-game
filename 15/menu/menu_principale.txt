@@ -1,0 +1,10 @@
++-----------------------------------------+
+|             Menu Principale             |
++-----------------------------------------+
+|   1) Iniziare Partita                   |
+|   2) Caricare Partita                   |
+|   3) Help                               |
+|   4) Classifica                         |
+|   0) Esci                               |
++-----------------------------------------+
+Scegliere opzione menu:

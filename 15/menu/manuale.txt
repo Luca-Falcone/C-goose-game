@@ -1,0 +1,16 @@
++------------------------------------------------------------------------------+
+|                          Manuale di Gioco                                    |
+|  Benvenuti al Gioco dell'Oca! Per giocare, utilizzeremo la tastiera,         |
+|  principalmente i tasti numerici. Interfaccia di Benvenuto: premere un tasto |
+|  per continuare. Menu Iniziale----> opzioni:                                 |
+|  1. Nuova Partita,2. Carica Partita,3. Help,4. Classifica, 0.Esci            |
+|  Nuova Partita: si aprira un sottomenu con le seguenti opzioni:              |
+|  1.Partita Classica: 2Partita Personalizzata, 0. Esci                        |
+|  -Carica Partita:selezionare uno slot da 1 a 5 per caricare una partita      |
+|  -Help:aprira un sottomenu con le seguenti opzioni                           |
+|  1.Regolamento, 2.Manuale, 0.Esci                                            |
+|  -Classifica dei Vincitori:lista ordinata dei vincitori in base al numero di | 
+|  lanci.Questo manuale fornisce una panoramica delle funzionalita del Gioco   |
+|  dell'Oca e ti guidera attraverso le varie opzioni disponibili.              |
+|  Buon divertimento e buona fortuna!                                          |
++------------------------------------------------------------------------------+                                                        

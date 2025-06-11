@@ -1,0 +1,14 @@
+Salva/carica una partita..
+
++-----------------------------------------+
+|                  SLOT                   |
++-----------------------------------------+
+|   -SLOT_PARTITA_1                       |
+|   -SLOT_PARTITA_2                       | 
+|   -SLOT_PARTITA_3                       |
+|   -SLOT_PARTITA_4                       |
+|   -SLOT_PARTITA_5                       |
+|        0)Esci                           |
++-----------------------------------------+
+
+Scegliere lo slot:

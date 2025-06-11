@@ -1,0 +1,6 @@
+..\\file\\slot_1.bin
+..\\file\\slot_2.bin
+..\\file\\slot_3.bin
+..\\file\\slot_4.bin
+..\\file\\slot_5.bin
+..\\file\\classifica.bin

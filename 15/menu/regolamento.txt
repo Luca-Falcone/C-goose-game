@@ -1,0 +1,23 @@
++-------------------------------------------------------------------------------+
+|                       Regolamento del Gioco dell'Oca                          |                     
+|                                                                               |                     
+| Il gioco procede nel senso orario. Il primo giocatore lancia i dadi e sposta  |
+| la sua pedina in avanti di un numero di caselle corrispondente alla somma     |
+| ottenuta. Il gioco inizia dalla casella numero 1. Il numero di giocatori puo  |
+| variare da 2 a 4. Lungo il percorso ci sono caselle speciali con effetti      |
+| particolari:                                                                  |
+| Le caselle "oca" permettono al giocatore di avanzare di un numero di caselle  |
+| pari al risultato del lancio dei dadi. Solitamente sono posizionate ogni nove | 
+| caselle normali. La casella "ponte" (casella 6) richiede al giocatore di      |
+| pagare una posta e di ripetere il suo movimento come se fosse su una casella  | 
+| "oca". La casella "locanda" (casella 19) obbliga il giocatore a fermarsi per  |
+| tre turni consecutivi. Il "pozzo" (casella 31) e la "prigione" (casella 52)   | 
+| bloccano il giocatore finche un'altra pedina raggiunge la stessa casella e    |
+| lo sostituisce.Il "labirinto" (casella 42) riporta il giocatore alla casella  |
+|33.Lo "scheletro" (casella 58) fa retrocedere il giocatore fino alla casella 1.|
+| La casella finale deve essere raggiunta con un lancio di dadi esatto.         |
+| Se si supera il numero di caselle necessarie, il giocatore retrocede di       |
+|un numero di caselle corrispondente all'eccesso.Il gioco continua fino a quando|
+| un giocatore raggiunge la casella finale. Il vincitore e il primo giocatore   |
+| a completare il percorso esattamente.                                         |
++-------------------------------------------------------------------------------+                                                                       

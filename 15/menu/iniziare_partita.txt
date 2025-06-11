@@ -1,0 +1,9 @@
++-----------------------------------------+
+|            Iniziare Partita             |
++-----------------------------------------+
+|   1) Partita Classica                   |
+|   2) Partita Personalizzata             |
+|   0) Esci                               |
++-----------------------------------------+
+
+Digitare scelta menu:
